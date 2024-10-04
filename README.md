@@ -106,5 +106,12 @@ Address:  143.90.88.12
  
  ☀️ Capture ARP
 
- 
+[Lien vers capture ARP](./captures/arp.pcap)
 
+ ☀️ Capture DNS
+
+[Lien vers capture DNS](./captures/dns.pcap)
+
+☀️ Capture TCP
+
+[Lien vers capture TCP](./captures/tcp.pcap)
